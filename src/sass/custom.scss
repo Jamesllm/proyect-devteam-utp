@@ -1,0 +1,9 @@
+/* make the customizations */
+@import './variables';
+
+$theme-colors: (
+    "primary":  $primary,
+);
+
+
+@import "bootstrap/scss/bootstrap.scss";
